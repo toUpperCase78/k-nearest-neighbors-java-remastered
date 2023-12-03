@@ -1,4 +1,4 @@
-# k-Nearest Neighbots in Java (REMASTERED)
+# k-Nearest Neighbors in Java (REMASTERED)
 _**k-Nearest Neighbors Algorithm in Java Applet - REMASTERED Edition**_
 
 ## Overview ##
